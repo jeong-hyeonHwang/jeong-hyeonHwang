@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**jeong-hyeonHwang/jeong-hyeonHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align= center>Jeonghyeon.H</div>
+---
+### <div align= left>🎈 Currently Interested in</div>
+* **iOS, C#, Unity, TypeScript, React Native**
+### 📚Experience
+#### **Sookmyung Woman Univ. APPS (2019.3 ~)**
+* GAME **[A Little Druid](https://github.com/DARK-EGG/A-LITTLE-DRUID, "Visit A Little Druid Repo")** (2020.03. ~ 2021.10) : As Planner, Programmer, Designer, Composer
+#### **2021 Sookmyung Software Hackathon (2021.11.06 ~ 2021.11.08)**
+* GAME **[Fatality](https://github.com/2021-Unity-Fatality/Fatality, "Visit Fatality Repo")** : As Planner, Programmer, Designer, Composer
+###
+---
+#### <div align = right> Contact at: hijihilin@gmail.com</div>
