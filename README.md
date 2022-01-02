@@ -1,7 +1,7 @@
 ### <div align= center>Jeonghyeon.H</div>
 ---
 ### <div align= left>🎈 Currently Interested in</div>
-* **iOS, C#, Unity, TypeScript, React Native**
+* **iOS, C#, Unity, C++, TypeScript, React Native**
 ### 📚 Activity
 #### **Sookmyung Woman Univ. APPS (2019.3 ~)**
 * Unity2D GAME **[A LITTLE DRUID]** (2020.03. ~ 2021.10) : As Planner, Programmer, Designer, Composer
