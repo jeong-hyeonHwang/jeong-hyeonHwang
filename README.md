@@ -9,6 +9,19 @@
 #### **2021 Sookmyung Software Hackathon (2021.11.06 ~ 2021.11.08)**
 * Unity2D GAME **[Fatality]** : As Planner, Programmer, Designer, Composer
 * VISIT: <https://github.com/jeong-hyeonHwang/Fatality>
+#### **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
+### 📱iOS Release
+**PERSONAL PROJECT**
+* iOS APP **[NTime]** : As Planner, Programmer, UI/UX Designer, SFX Designer
+* VISIT: <https://apps.apple.com/kr/app/ntime/id1625231450>
+* iOS GAME **[LEQUIEM: Overture]** : As Planner, Programmer, Designer, Composer
+* VISIT: <https://apps.apple.com/kr/app/lequiem-overture/id1632011782>
+
+**TEAM PROJECT**
+
+**TEAM Hwasung Company**
+* iOS GAME **[Hydden]** : As Planner, Story Designer, UI/UX Designer, Graphic Designer, Programmer
+* VISIT: <https://apps.apple.com/kr/app/hydden/id1629910842>
 ###
 ---
 #### <div align = right> Contact at: hijihilin@gmail.com</div>
