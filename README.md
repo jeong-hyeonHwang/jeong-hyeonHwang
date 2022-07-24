@@ -25,7 +25,7 @@
 ###
 ---
 #### <div align = right> Contact at: hijihilin@gmail.com</div>
-#### <div align = right> Notion: [Link](https://intelligent-motorcycle-2ff.notion.site/_Jeonghyeon-Hwang-c1883dab1de747bb87101f5621fd079b</div>)
+#### <div align = right> Notion: [Link](https://intelligent-motorcycle-2ff.notion.site/_Jeonghyeon-Hwang-c1883dab1de747bb87101f5621fd079b)</div>
 <div align=left>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong-hyeonHwang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
