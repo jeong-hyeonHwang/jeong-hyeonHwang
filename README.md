@@ -7,7 +7,7 @@
 #### **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
 ### 📱iOS Release
 **PERSONAL PROJECT**
-* iOS GAME **[AGUAGU]** : As Planner, Programmer, Designer
+* iOS GAME **[AGUAGU]** : As Planner, Programmer, Designer, SFX Designer, Composer
 * VISIT: <https://apps.apple.com/us/app/aguagu/id1642786388>
 * iOS GAME **[LEQUIEM: Overture]** : As Planner, Programmer, Designer, Composer
 * VISIT: <https://apps.apple.com/kr/app/lequiem-overture/id1632011782>
