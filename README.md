@@ -1,7 +1,8 @@
-### <div align= center>Jeonghyeon.H</div>
----
+## <div align= center>Jeonghyeon.H</div>
+
 ### <div align= left>🎈 Currently Interested in</div>
 * **iOS, Swift, Unity, C#, C++, TypeScript, React Native**
+
 ### 📚 Activity
 ---
 #### **2022 Apple Developer Academy @ POSTECH (2022.03.14 ~)**
@@ -15,6 +16,10 @@
 * VISIT: <https://apps.apple.com/kr/app/ntime/id1625231450>
 
 **TEAM PROJECT**
+
+**TEAM OFFTORIVER**
+* iOS APP **[BJGG(빠지가까)] : As Planner, Programmer
+* VISIT: <https://apps.apple.com/us/app/빠지가까/id6443720411>
 
 **TEAM For EllyJ's Health**
 * iOS APP **[PikiPick]** : As Planner, Programmer
