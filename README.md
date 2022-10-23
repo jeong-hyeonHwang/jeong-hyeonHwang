@@ -18,7 +18,7 @@
 **TEAM PROJECT**
 
 **TEAM OFFTORIVER**
-* iOS APP **[BJGG(빠지가까)] : As Planner, Programmer
+* iOS APP **[빠지가까(BJGG)]** : As Planner, Programmer
 * VISIT: <https://apps.apple.com/us/app/빠지가까/id6443720411>
 
 **TEAM For EllyJ's Health**
