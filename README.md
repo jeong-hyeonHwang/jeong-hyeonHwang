@@ -1,7 +1,7 @@
 ## <div align= center>Jeonghyeon.H</div>
 
 ### <div align= left>🎈 Currently Interested in</div>
-* **iOS, Swift, Unity, C#, C++, TypeScript, React Native**
+* **iOS, Swift, Unity, C#, C++, Design Pattern, TypeScript, React Native**
 
 ### 📚 Activity
 ---
@@ -19,11 +19,10 @@
 
 ---
 #### **Sookmyung Woman Univ. APPS (2019.3 ~ 2022.02)**
-* Unity2D GAME **[A LITTLE DRUID]** (2020.03. ~ 2021.10) : As Planner, Programmer, Designer, Composer
-* VISIT: <https://github.com/jeong-hyeonHwang/A-LITTLE-DRUID>
-#### **2021 Sookmyung Software Hackathon (2021.11.06 ~ 2021.11.08)**
-* Unity2D GAME **[Fatality]** : As Planner, Programmer, Designer, Composer
-* VISIT: <https://github.com/jeong-hyeonHwang/Fatality>
+|AppIcon|Name|Genre|Role|Link|
+|:---:|:---:|:---:|:---|:---:|
+|![ALITTLEDRUID](https://user-images.githubusercontent.com/96641477/199999586-959b5d4e-0b75-4233-abb3-4cbae16d99b4.png)|**A LITTLE DRUID**|2D PIXEL RPG Game|`Planner`, `Programmer`, `Designer`, `Composer`|[GitHub](https://github.com/jeong-hyeonHwang/A-LITTLE-DRUID)|
+|![FAITALITY](https://user-images.githubusercontent.com/96641477/199999594-ee7471e8-219d-4c59-8edb-f0ca293081cf.png)|**Faitality**|Priority Game|`Planner`, `Programmer`, `Designer`, `Composer`|[Github](https://github.com/jeong-hyeonHwang/Fatality)|
 
 ###
 ---
