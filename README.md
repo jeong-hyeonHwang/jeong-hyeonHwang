@@ -1,11 +1,11 @@
 # <div align= center>Jeonghyeon.H</div>
 
-## 🏅 Prize
+## 🏅 Awards
 
-|Prize & Competition Name|AppIcon|App Name|Link|
+|AppIcon|Name|Prize & Competition Name|Link|
 |:---:|:---:|:---:|:---:|
-|**2023 GDSC Solution Challenge Top 100**|<img src ="https://github.com/jeong-hyeonHwang/jeong-hyeonHwang/assets/96641477/dc168e2a-f515-479a-9529-1f154a6c3e5f">|**CPR2U**|[GitHub](https://github.com/CPR2U/CPR2U-iOS)|
-|**2023 WWDC Swift Student Challenge Winner**|<img src ="https://github.com/jeong-hyeonHwang/jeong-hyeonHwang/assets/96641477/80d49cbc-87d6-44e7-842f-256a71fc7c71">|**Childhood Imagination**|[Notion](https://intelligent-motorcycle-2ff.notion.site/Childhood-Imagination-02b40edaeb1b4a9db179bbbfa64c94b1?pvs=4)|
+|<img src ="https://github.com/jeong-hyeonHwang/jeong-hyeonHwang/assets/96641477/dc168e2a-f515-479a-9529-1f154a6c3e5f" width = "80">|**CPR2U**|**2023 GDSC Solution Challenge Top 100**|[GitHub](https://github.com/CPR2U/CPR2U-iOS)|
+|<img src ="https://github.com/jeong-hyeonHwang/jeong-hyeonHwang/assets/96641477/80d49cbc-87d6-44e7-842f-256a71fc7c71" width = "80">|**Childhood Imagination**|**2023 WWDC Swift Student Challenge Winner**|[Notion](https://intelligent-motorcycle-2ff.notion.site/Childhood-Imagination-02b40edaeb1b4a9db179bbbfa64c94b1?pvs=4)|
 
 ## 🛠️ Development
 ### 📱iOS
